@@ -1,5 +1,6 @@
 # -Exercicio-JQuery-Lista-Codigos-Alta-Performace-Web-2023.1
 Atividade da faculdade de Codigos de alta performance - web
+
 (1) - O botão do contraste deve servir para mudar o plano de fundo do site e cor de fonte do mesmo
 
 (2) - O botão do tamanho de fonte deve alterar a fonte de TODO o site, um botão para aumentar, outro para diminuir
